@@ -51,3 +51,4 @@ Created task: {'id': '93d9b8f2-a15d-4608-8ad1-e12b37c071d4', 'title': 'Enhance a
 Created task: {'id': '36e0e437-f4d4-4bf8-8896-c2fc3360047c', 'title': 'Develop a smarter scheduling system for handling time zones', 'description': 'Create a more intuitive time zone management feature that automatically adjusts meeting times for participants in different time zones and integrates with external calendars.'}
 Finished generating tasks for conversation from: ../tests/conversations/conversation3.txt
 ```
+![Image 3-13-24 at 1 19 AM](https://github.com/hsubbaraj/linearproj/assets/8093660/4ef120fb-44fa-4416-ac84-1b1cc4ce5dec)
