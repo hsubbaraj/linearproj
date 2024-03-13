@@ -1,0 +1,9 @@
+openai_api_key: <Your OpenAI API Key>
+
+linear_api_key: <Your Linear API Key>
+linear_team_id: <Your Linear Team UUID>
+linear_bug_label_id: <Your Linear Bug Label UUID>
+linear_feature_request_label_id: <Your Linear Feature Label UUID>
+linear_engineering_label_id: <Your Linear Improvement Label UUID>
+
+conversation_paths: [../tests/conversations/conversation1.txt, ../tests/conversations/conversation2.txt, ../tests/conversations/conversation3.txt]
